@@ -1,2 +1,3 @@
 # FileNames_Python
-Este tiene como finalidad facilitar el renombrar múltiples archivos y carpetas simultáneamente.
+El programa renombra todos los elementos dentro de un directorio sean estos archivos o carpetas.
+puedes reemplazar o agregar texto a los nombres.
